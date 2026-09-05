@@ -121,7 +121,7 @@ Generate reports ready for:
 | LLM Provider    | Groq                     |
 | Search Engine   | Tavily                   |
 | Parsing         | BeautifulSoup            |
-| Deployment      | Streamlit Cloud / Render |
+| Deployment      | Streamlit Cloud |
 
 ---
 
